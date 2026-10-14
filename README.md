@@ -213,4 +213,4 @@ Cometdocs is offered as a full free version with all features unlocked and conti
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-14 11:07:40 UTC
+**Last updated:** 2026-10-14 16:28:10 UTC
